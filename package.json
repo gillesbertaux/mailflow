@@ -1,0 +1,23 @@
+{
+  "name": "mailflow",
+  "version": "1.0.0",
+  "description": "worflow for email processing",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gilles Bertaux",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-email-builder": "^1.0.4",
+    "gulp-install": "^0.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.1.0"
+  }
+}
